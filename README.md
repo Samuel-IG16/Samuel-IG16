@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">I'm a passionate Software and Systems Engineer</h3>
 
-<h2 align="left">🙋 About Me </h2>
+<h2 align="left">🙋‍♂️ About Me </h2>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
@@ -14,8 +14,6 @@
 - 👨‍💻 All of my projects are available at My portfolio coming soon (**My portfolio coming soon**)
 
 - 📝 I regularly write articles on **twitter & linkedln**
-
-- 📫 How to reach me **igbinijesusamuel@gmail.com**
 
 - ⚡ Fun fact **I love solving problems!!!.**
 
