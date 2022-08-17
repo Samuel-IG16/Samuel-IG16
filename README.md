@@ -32,8 +32,8 @@
 
 <h2 align="left"> My Github Stats: </h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-ig16&show_icons=true&locale=en" alt="samuel-ig16" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-ig16&show_icons=true&locale=en&layout=compact" alt="samuel-ig16" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-ig16&" alt="samuel-ig16" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-ig16&show_icons=true&locale=en&layout=compact" alt="samuel-ig16" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-ig16&" alt="samuel-ig16" /></p>
+<p></p>
 
 <h2 align="left"> Views and Followers </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-ig16&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-ig16" /> </p>
